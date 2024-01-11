@@ -1,0 +1,42 @@
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+  }
+  #plan h2 {
+    font-size: 45px;
+    text-transform: uppercase;
+    color: rgb(67, 174, 216);
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+ #plan h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }  
+  #plan input{
+    width:99%;
+    padding: 0.5%;
+    margin-bottom: 1%;
+  }
+  #plan select{
+    width:99%;
+    padding: 0.5%;
+  }
+  
+ #plan button{
+    width: 30%;
+    padding: 0.5%;
+    margin-top: 3%;
+    border: none;
+    background-color:  rgb(67, 174, 216);
+    position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+  }
+  
